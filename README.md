@@ -82,10 +82,6 @@ A hands-free voice assistant for smart glasses. You speak, it looks at what the 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ponchupd-cpu&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ponchupd-cpu&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=ponchupd-cpu&theme=github-dark-blue&hide_border=true" />
 </p>
 
@@ -93,18 +89,6 @@ A hands-free voice assistant for smart glasses. You speak, it looks at what the 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ponchupd-cpu/ponchupd-cpu/main/profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph" />
-</p>
-
-### 📈 Activity Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ponchupd-cpu&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&hide_border=true" />
-</p>
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ponchupd-cpu&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,50:1f6f3f,100:0d1117&height=120&section=footer" />
