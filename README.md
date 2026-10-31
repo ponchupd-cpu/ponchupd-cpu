@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/ponchupd-cpu">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=ML+Decision+Engines+%F0%9F%A7%A0;Optimisation+%26+Simulation+%E2%9A%99%EF%B8%8F;Voice+%2B+Vision+AI+for+Smart+Glasses+%F0%9F%95%B6%EF%B8%8F;Always+building+something+new+%F0%9F%9A%80" alt="typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=ML+Decision+Engines+%F0%9F%A7%A0;Optimisation+%26+Simulation+%E2%9A%99%EF%B8%8F;Building+a+Smart+Glasses+Prototype+%F0%9F%95%B6%EF%B8%8F;Always+building+something+new+%F0%9F%9A%80" alt="typing intro" />
   </a>
 </p>
 
@@ -55,13 +55,13 @@ A decision engine for customer-support operations. Finds why SLA deadlines are m
 <td width="50%" valign="top">
 
 #### [🕶️ SmartGlass](https://github.com/ponchupd-cpu/smartglass)
-A hands-free voice assistant for smart glasses. You speak, it looks at what the camera sees, and it answers out loud.
+A working prototype of smart glasses. A camera and mic on the frame see and hear what you do, and answers show on a screen in the lens and play through a speaker. Hands-free, no phone needed.
 
-- **Hears:** records your voice from the mic, with automatic start/stop on speech
-- **Sees:** uses Gemini vision to understand the camera frame together with your question
-- **Speaks:** sends Gemini's answer to Deepgram TTS one sentence at a time, so the reply starts playing before it's finished
+- **Eyes:** the camera on the frame plus Gemini vision understand what you're looking at
+- **Ears:** the mic listens and Deepgram turns your speech into text
+- **Screen + Voice:** answers appear in your view and are spoken almost instantly
 
-`Python` `Gemini API` `Deepgram` `asyncio` `sounddevice`
+`Python` `Gemini Vision` `Deepgram` `Wearable` `Prototype`
 
 </td>
 </tr>
