@@ -54,7 +54,7 @@ A decision engine for customer-support operations. Finds why SLA deadlines are m
 </td>
 <td width="50%" valign="top">
 
-#### [🕶️ SmartGlass](https://github.com/ponchupd-cpu/smartglass)
+#### 🕶️ SmartGlass 🔒
 Smart glasses in the making. A camera and mic on the frame will see and hear what you do, and answers will show on a screen in the lens and play through a speaker. Hands-free, no phone needed.
 
 - **Eyes:** Gemini vision understands what you're looking at
