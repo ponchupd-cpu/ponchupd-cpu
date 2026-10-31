@@ -55,13 +55,15 @@ A decision engine for customer-support operations. Finds why SLA deadlines are m
 <td width="50%" valign="top">
 
 #### [🕶️ SmartGlass](https://github.com/ponchupd-cpu/smartglass)
-A working prototype of smart glasses. A camera and mic on the frame see and hear what you do, and answers show on a screen in the lens and play through a speaker. Hands-free, no phone needed.
+Smart glasses in the making. A camera and mic on the frame will see and hear what you do, and answers will show on a screen in the lens and play through a speaker. Hands-free, no phone needed.
 
-- **Eyes:** the camera on the frame plus Gemini vision understand what you're looking at
-- **Ears:** the mic listens and Deepgram turns your speech into text
-- **Screen + Voice:** answers appear in your view and are spoken almost instantly
+- **Eyes:** Gemini vision understands what you're looking at
+- **Ears:** Deepgram turns your speech into text
+- **Voice:** answers are spoken almost instantly
 
-`Python` `Gemini Vision` `Deepgram` `Wearable` `Prototype`
+✅ Software complete · 🚧 Hardware prototype in progress
+
+`Python` `Gemini Vision` `Deepgram` `Wearable`
 
 </td>
 </tr>
